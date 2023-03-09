@@ -12,7 +12,7 @@
                           <i class="fa fa-bars"></i>
                       </a>
                   </li>
-                  <li class="message-toggle-wrapper">
+                  {{-- <li class="message-toggle-wrapper">
                       <a href="#" data-toggle="dropdown" class="toggle">
                           <i class="fa fa-envelope"></i>
                           <span class="badge badge-accent">7</span>
@@ -170,8 +170,8 @@
                           </li>
                       </ul>
 
-                  </li>
-                  <li class="notify-toggle-wrapper">
+                  </li> --}}
+                  {{-- <li class="notify-toggle-wrapper">
                       <a href="#" data-toggle="dropdown" class="toggle">
                           <i class="fa fa-bell"></i>
                           <span class="badge badge-accent">3</span>
@@ -254,8 +254,8 @@
                               </a>
                           </li>
                       </ul>
-                  </li>
-                  <li class="hidden-sm hidden-xs searchform">
+                  </li> --}}
+                  {{-- <li class="hidden-sm hidden-xs searchform">
                       <form action="#" method="post">
                           <div class="input-group">
                               <span class="input-group-addon">
@@ -265,7 +265,7 @@
                           </div>
                           <input type='submit' value="">
                       </form>
-                  </li>
+                  </li> --}}
               </ul>
           </div>
           <div class='pull-right'>
@@ -298,13 +298,13 @@
                           </li>
                       </ul>
                   </li>
-                  <li class="chat-toggle-wrapper">
+                  {{-- <li class="chat-toggle-wrapper">
                       <a href="#" data-toggle="chatbar" class="toggle_chat">
                           <i class="fa fa-comments"></i>
                           <span class="badge badge-accent">9</span>
                           <i class="fa fa-times"></i>
                       </a>
-                  </li>
+                  </li> --}}
               </ul>
           </div>
       </div>
